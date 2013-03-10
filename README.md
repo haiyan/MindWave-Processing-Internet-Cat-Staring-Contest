@@ -16,6 +16,8 @@ A simple staring contest game connecting the Neurosky MindWave headset with Proc
  3. Game should connect and start. When connection signal is good (<50) the game will start.
  4. Player will be asked to blink 3 times to start the game, this is to verify the blink detection works.
  5. Get your stare on!
+
+More info about this game here: http://blog.failedrobot.com/?p=500
  
  @haiyan
  March, 2013
